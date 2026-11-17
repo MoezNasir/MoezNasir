@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm aComputer Engineering graduate from **FAST National University, Lahore**, currently working as an **AI/ML Intern. I build end-to-end AI systems — computer vision pipelines, retrieval-augmented generation (RAG) tools, LLM agent workflows, and business process automation — usually shipped under real hardware constraints (CPU-only, Intel Mac) that force disciplined, resourceful engineering.
+I'm a Computer Engineering graduate from **FAST National University, Lahore**, currently working as an **AI/ML Intern. I build end-to-end AI systems — computer vision pipelines, retrieval-augmented generation (RAG) tools, LLM agent workflows, and business process automation — usually shipped under real hardware constraints (CPU-only, Intel Mac) that force disciplined, resourceful engineering.
 
 ---
 
